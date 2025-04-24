@@ -1,3 +1,2 @@
 # git-intro
-
-##descripcion
+descripcion
